@@ -12,5 +12,9 @@
     "gif"
   ],
   "author": "Patrick O'Doherty <p@trickod.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "optimist": "~0.6.1",
+    "request": "~2.34.0"
+  }
 }
