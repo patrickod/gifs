@@ -1,0 +1,16 @@
+{
+  "name": "gifs",
+  "version": "0.0.1",
+  "description": "A command line gif store",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gifs",
+    "cli",
+    "gif"
+  ],
+  "author": "Patrick O'Doherty <p@trickod.com>",
+  "license": "MIT"
+}
