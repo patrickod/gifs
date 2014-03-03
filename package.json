@@ -1,7 +1,7 @@
 {
   "name": "gifs",
-  "version": "0.0.1",
-  "description": "A command line gif store",
+  "version": "0.0.2",
+  "description": "Command line magic for your gifs",
   "main": "index.js",
   "bin" : {
     "gifs" : "./bin/gifs"
