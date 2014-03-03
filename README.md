@@ -28,4 +28,4 @@ Or in gif form
 
 ## Inspiration
 
-gifs is inspired by [@eugenius](https://github.com/eugenius)' "genius" (see what I did there?) use of Zach Holman's [boom](https://github.com/holman/boom) gem for managing his most fantastic gif collection. For every emotion, @eugenius has an appropirate gif. This tool is built to give me a competitive advantage such that I can catch up with him
+gifs is inspired by [@eugeneius](https://github.com/eugeneius)' "genius" (see what I did there?) use of Zach Holman's [boom](https://github.com/holman/boom) gem for managing his most fantastic gif collection. For every emotion, @eugenius has an appropirate gif. This tool is built to give me a competitive advantage such that I can catch up with him
