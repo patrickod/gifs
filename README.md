@@ -17,6 +17,9 @@ I even copied it to your clipboard
 
 $ gifs nailed.it
 Found nailed.it: copied http://i.imgur.com/udYqbUV.gif to your clipboard
+
+$ gifs
+nailed.it:      http://i.imgur.com/udYqbUV.gif
 ```
 
 ## Inspiration
