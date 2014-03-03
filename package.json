@@ -1,19 +1,20 @@
 {
   "name": "gifs",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Command line magic for your gifs",
   "main": "index.js",
   "bin" : {
     "gifs" : "./bin/gifs"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no tests yet :( I'll get there \" && exit 1"
   },
   "keywords": [
     "gifs",
     "cli",
     "gif"
   ],
+  "repository": "https://github.com/patrickod/gifs",
   "author": "Patrick O'Doherty <p@trickod.com>",
   "license": "MIT",
   "dependencies": {
