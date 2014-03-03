@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "description": "A command line gif store",
   "main": "index.js",
+  "bin" : {
+    "gifs" : "./bin/gifs"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -14,7 +17,6 @@
   "author": "Patrick O'Doherty <p@trickod.com>",
   "license": "MIT",
   "dependencies": {
-    "optimist": "~0.6.1",
-    "request": "~2.34.0"
+    "yargs": "~1.1.3"
   }
 }
