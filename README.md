@@ -12,14 +12,14 @@ Usage: gifs [caption] [url/path] <- Uploads image and saves as caption
        gifs [caption]            <- Returns the URL for that caption
 
 $ gifs nailed.it ~/Desktop/nailed.it.gif
-Saved nailed.it as http://i.imgur.com/udYqbUV.gif
+Saved nailed.it as http://i.imgur.com/llFuLyX.gif
 I even copied it to your clipboard
 
 $ gifs nailed.it
-Found nailed.it: copied http://i.imgur.com/udYqbUV.gif to your clipboard
+Found nailed.it: copied http://i.imgur.com/llFuLyX.gif to your clipboard
 
 $ gifs
-nailed.it:      http://i.imgur.com/udYqbUV.gif
+nailed.it:      http://i.imgur.com/llFuLyX.gif
 ```
 
 ## Inspiration
