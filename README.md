@@ -22,6 +22,10 @@ $ gifs
 nailed.it:      http://i.imgur.com/llFuLyX.gif
 ```
 
+Or in gif form
+
+![gifs demo](http://i.imgur.com/bLx5KZN.gif)
+
 ## Inspiration
 
 gifs is inspired by [@eugenius](https://github.com/eugenius)' "genius" (see what I did there?) use of Zach Holman's [boom](https://github.com/holman/boom) gem for managing his most fantastic gif collection. For every emotion, @eugenius has an appropirate gif. This tool is built to give me a competitive advantage such that I can catch up with him
