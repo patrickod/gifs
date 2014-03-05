@@ -14,7 +14,10 @@
     "cli",
     "gif"
   ],
-  "repository": "https://github.com/patrickod/gifs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/patrickod/gifs.git"
+  },
   "author": "Patrick O'Doherty <p@trickod.com>",
   "license": "MIT",
   "dependencies": {
