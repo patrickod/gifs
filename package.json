@@ -1,10 +1,10 @@
 {
   "name": "gifs",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Command line magic for your gifs",
   "main": "index.js",
-  "bin" : {
-    "gifs" : "./bin/gifs"
+  "bin": {
+    "gifs": "./bin/gifs"
   },
   "scripts": {
     "test": "echo \"Error: no tests yet :( I'll get there \" && exit 1"
@@ -21,6 +21,7 @@
   "author": "Patrick O'Doherty <p@trickod.com>",
   "license": "MIT",
   "dependencies": {
-    "yargs": "~1.1.3"
+    "yargs": "~1.1.3",
+    "underscore": "~1.6.0"
   }
 }
